@@ -1,4 +1,10 @@
-# Evidencias de ejecución
+# Desarrollo Práctica G9
+
+## Inteligencia de Negocios - Componente Práctico Semana 1
+
+Para la ejecución del proyecto ejecutar el archivo desarrolloG9.ipynb
+
+## Evidencias de ejecución
 
 En esta sección se presentan las capturas de pantalla que evidencian la correcta configuración del entorno, la ejecución del contenedor Docker, la conexión con PostgreSQL y la carga de datos en la base de datos.
 
