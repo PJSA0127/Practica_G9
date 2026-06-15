@@ -4,4 +4,4 @@
 desarrolloG9.ipynb
 
 ### Inteligencia de Negocios - Componente Práctico Semana 2
-transformG9.ipynb
+TransformG9.ipynb
